@@ -23,7 +23,7 @@ It’s a great portfolio project showcasing DOM manipulation, event handling, an
 
 
 ## Play Online
-[Click here to play the Dicey Game](https://your-username.github.io/Dicey-Game/)  
+[Click here to play the Dicey Game](https://pankaj4532.github.io/Dicey-Game-A-Fun-Two-Player-Dice-Rolling-Game/) 
 
 ## Project Structure
 - `index.html` - Main game page
