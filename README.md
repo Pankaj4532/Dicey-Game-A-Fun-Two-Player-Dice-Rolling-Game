@@ -11,11 +11,19 @@ It’s a great portfolio project showcasing DOM manipulation, event handling, an
 - Display winner in a styled modal popup
 - Responsive and interactive UI
 
+### Gameplay Screenshots
+![Preview 1](screenshots/preview1.png)  
+![Preview 2](screenshots/preview2.png)
+
 ## How to Play
 1. Open `index.html` in your browser.
 2. Enter player names (optional).
 3. Click **Roll Dice**.
 4. Watch the dice roll animation and see who wins!
+
+
+## Play Online
+[Click here to play the Dicey Game](https://your-username.github.io/Dicey-Game/)  
 
 ## Project Structure
 - `index.html` - Main game page
